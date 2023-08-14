@@ -1,0 +1,19 @@
+:root{
+    --black: #111;
+    --white: #ffffff;
+    --bg: #c1c0c0;
+    --blue: blue;
+}
+
+.blue{
+    color: blue;
+}
+
+body{
+    background-color: var(--bg);
+}
+
+*{
+    margin: 0%;
+    padding: 0%;
+}
